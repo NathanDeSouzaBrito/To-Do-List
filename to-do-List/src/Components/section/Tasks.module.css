@@ -66,12 +66,13 @@
   height: 35px;
   margin-top: 3%;
   margin-bottom: 20px;
+  border-bottom: #ffffff 2px solid;
 }
 
 .addTask {
   border-radius: 5px;
   padding: 15px 8px 15px 8px;
-  margin-top: 10%;
+  margin-top: 13%;
   padding-bottom: 30px;
 
   border-radius: 50px;
