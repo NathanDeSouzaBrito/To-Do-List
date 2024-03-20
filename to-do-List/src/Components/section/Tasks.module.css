@@ -5,11 +5,11 @@
   --fontRaleway: Raleway;
   --fontPoppins: Poppins;
   --white: #ffffff;
-  --black: #2d2d2d;
+  --ultBlack: #01010d;
 }
 
 .main {
-  background-color: var(--black);
+  background-color: var(--ultBlack);
   display: flex;
   justify-content: center;
   display: grid;
@@ -105,7 +105,7 @@
 
 #box {
   cursor: pointer;
-  color: var(--black);
+  color: var(--ultBlack);
   border: 0;
 }
 
@@ -156,7 +156,7 @@
 
 #editing {
   color: var(--white);
-  background-color: var(--black);
+  background-color: var(--ultBlack);
   border: 2px var(--white) solid;
   font-family: var(--fontRaleway);
   font-weight: 400;
@@ -168,7 +168,7 @@
 @media (max-width: 501px) {
   .main {
     width: 350px;
-    background-color: var(--black);
+    background-color: var(--ultBlack);
 
     display: flex;
     justify-content: center;
@@ -260,7 +260,7 @@
 
   #box {
     cursor: pointer;
-    color: var(--black);
+    color: var(--ultBlack);
     border: 0;
   }
 
@@ -295,7 +295,7 @@
 
   #editing {
     color: var(--white);
-    background-color: var(--black);
+    background-color: var(--ultBlack);
     border: 2px var(--white) solid;
     font-family: var(--fontRaleway);
     font-weight: 300;
@@ -308,7 +308,7 @@
 @media (min-width: 502px) and (max-width: 751px) {
   .main {
     width: 500px;
-    background-color: var(--black);
+    background-color: var(--ultBlack);
 
     display: flex;
     justify-content: center;
@@ -400,7 +400,7 @@
 
   #box {
     cursor: pointer;
-    color: var(--black);
+    color: var(--ultBlack);
     border: 0;
   }
 
@@ -435,7 +435,7 @@
 
   #editing {
     color: var(--white);
-    background-color: var(--black);
+    background-color: var(--ultBlack);
     border: 2px var(--white) solid;
     font-family: var(--fontRaleway);
     font-weight: 500;
