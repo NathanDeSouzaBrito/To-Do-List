@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "scss": "^0.2.4",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "sass": "^1.72.0"
+  }
+}
