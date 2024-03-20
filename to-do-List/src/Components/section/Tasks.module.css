@@ -42,6 +42,7 @@
   margin: 0 15px 0 15px;
   display: flex;
   justify-content: space-between;
+  padding-top: 25px;
 
   font-weight: 600;
   font-family: var(--fontRaleway);
@@ -68,10 +69,13 @@
 }
 
 .addTask {
-  border: var(--white) 3px solid;
   border-radius: 5px;
   padding: 15px 8px 15px 8px;
   margin-top: 10%;
+  padding-bottom: 30px;
+
+  border-radius: 50px;
+  box-shadow: 0 10px 15px 0 #ffffff;
 }
 
 .infoAddTask {

@@ -102,7 +102,7 @@ function Tasks() {
   return (
     <main className={style.main}>
       <div className={style.title}>
-        <h1>Otimize seu tempo e se organize com o nosso Planejador Diário.</h1>
+        <h1 className={style.h1}>To-Do List para organizar seu dia</h1>
       </div>
       {!state.isModalOpen && !state.isEditModalOpen && (
         <article className={style.article}>
