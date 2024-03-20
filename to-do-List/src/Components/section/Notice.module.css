@@ -4,9 +4,9 @@
 :root {
   --fontRaleway: Raleway;
   --fontPoppins: Poppins;
-  --white: #ffffff;
-  --black: #2d2d2d;
-  --blue: #0c70f2;
+  --white: #f9f8d5;
+  --black: #000000;
+  --yellow: #dbac3f;
 }
 
 .noticeGeneral {
@@ -63,7 +63,7 @@
   width: 250px;
   height: 70px;
 
-  background-color: var(--blue);
+  background-color: var(--yellow);
   border: 0;
   border-radius: 15px;
 
@@ -94,9 +94,9 @@
 
 .btnN:hover {
   background-color: var(--white);
-  color: var(--blue);
+  color: var(--yellow);
   transition-duration: 0.5s;
-  border: 2px var(--blue) solid;
+  border: 2px var(--yellow) solid;
 }
 
 .btnS:hover {
@@ -134,7 +134,7 @@
     width: 120px;
     height: 50px;
 
-    background-color: var(--blue);
+    background-color: var(--yellow);
     border: 0;
     border-radius: 15px;
 
