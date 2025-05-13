@@ -17,8 +17,6 @@ uuid,
 Sass
 SCSS.
 
-   Versioning history:
- This is the second version of the TO-Do list (so far), I changed some features and colors of the site, I put darker colors, to improve the visualization of the site.
 
 ============ Portugues =================
 
@@ -36,5 +34,3 @@ uuid,
 sass,
 scss.
 
-   Historico de versionamento:
-essa aqui é a segunda versao do TO-Do list(ate´o memento), mudei algumas funcionalidades e cores do site, coloquei cores mais escuras, para melhorar o vizual do site.
